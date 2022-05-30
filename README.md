@@ -1,11 +1,14 @@
 ## My-Library
+
 Library of Tools And Components
 
 
 #### Toggle Button
-- div id = toggle
--- div class = indicator
+
+1. div id = toggle
+    - div class = indicator
 
 #### Hamburger Menu
-- div class = hamburger
--- div class = hamburger-menu
+
+1. div class = hamburger
+    - div class = hamburger-menu
